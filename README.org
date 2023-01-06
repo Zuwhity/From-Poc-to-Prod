@@ -19,7 +19,9 @@ This repository host a micro-service that aims to predict code language labels f
 ** Context
 This project was made as an example to deploy a machine learning algorithm in production
 ** Maintainers
-+ [[https://github.com/rizerkrof][@Doudou]] (Author)
++ [[https://github.com/Zuwhity][@Zuwhity]] 
+** ReadMe author
++ [[https://github.com/rizerkrof][@doudou]](Author)
 
 * Prerequisites
 + Python 3.7
